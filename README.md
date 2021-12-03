@@ -16,7 +16,7 @@ This is intended to be used as a template repository for django projects running
 
 #### Your first step is start building your project with the following line
 
-`docker-compose run web django-admin startproject djangoexample .`
+`docker-compose run web django-admin startproject backendProject .`
 
 #### Database settings change to your select DB
 Go to your settings.py inside the project folder created in previous steps and modify it accordingly your database settings. Here an example:
